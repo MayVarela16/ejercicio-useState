@@ -40,3 +40,63 @@
 .read-the-docs {
   color: #888;
 }
+
+
+
+.Main-container{
+  background-color: #bbff99;
+  background-image: linear-gradient(160deg, #bbff99 0%, #ffec99 37%, #ff9999 100%);
+  width: 1000px;
+ height: 1000px;
+ display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.container{
+background-color: #bbff99;
+background-image: linear-gradient(319deg, #bbff99 0%, #ffec99 37%, #ff9999 100%);
+width: 500px;
+height: 250px;
+margin-top: 200px;
+}
+
+.title{
+  margin-top: 40px;
+  color: gray;
+  cursor: pointer;
+}
+
+.title:hover{
+  text-decoration: underline;
+  color: darkgrey;
+}
+
+.formulario{
+border-radius: 5px;
+}
+
+
+.input{
+  color:gray;
+  border-radius: 3px;
+  background-color: #ffec99;
+  text-align: center;
+}
+.boton{
+  margin-top: 20px;
+   background: linear-gradient(to right, #ffcc00, #ff3300);
+   -webkit-text-fill-color: transparent;
+   background-clip: text;
+}
+.lista{
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  justify-content: center;
+  list-style-type: none;
+  color: gray;
+  font-weight: bold;
+  margin-left: -20px;
+  cursor: pointer;
+}

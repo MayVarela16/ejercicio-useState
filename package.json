@@ -22,5 +22,10 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
     "vite": "^5.1.4"
-  }
+  },
+  "description": "En este ejercicio tendrás que poner en práctica lo aprendido con useState. Para ello se pide que hagas una lista de nombres de tus profesores y que cada vez que cliques en uno de ellos cambie el nombre del profesor. Los pasos a seguir son los siguientes:",
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
